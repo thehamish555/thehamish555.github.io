@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Development of Ham Bot"
 ---
 ## The Beginning (2021-2022)
