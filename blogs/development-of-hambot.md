@@ -1,7 +1,10 @@
 ---
 layout: default
-title:  "Development of Ham Bot"
+title:  Development of Ham Bot
+permalink: /blogs/development-of-ham-bot
+parent: Blogs
 ---
+
 ## The Beginning (2021-2022)
 
 Over the last couple of years (Starting Late 2021), I have experimented with Discord Bots. To learn more about how to code these bots I made a simple Bot I called "Ham Bot".
@@ -741,6 +744,7 @@ My most recent addition to the new Ham Bot was adding the Music feature back. Th
 The biggest change introduced in this version was how Music was played, instead of downloading to my computer, it would now directly stream the music from YouTube.
 
 This is the code for the play command
+
 ```python
 # Required Imports
 import discord
