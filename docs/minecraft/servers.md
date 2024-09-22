@@ -10,8 +10,8 @@ parent: Minecraft Server Guide
 | Server Name | IP Address | Version | Platform | Requirements |
 | --- | --- | --- | --- | --- |
 | ~~Vanilla: Corrupted~~ | ~~lester.serveminecraft.net:25590~~ | ~~1.20.1~~ | ~~Java~~ |~~Simple Voice Chat (Avoid Discord Calls)~~ |
-| Better Minecraft | lester.serveminecraft.net:25589 | 1.20.1 | Java | Better MC [FORGE] - BMC4 |
-| Vanilla With A TWIST! (Currently Creative) | lester.serveminecraft.net:25588 | 1.20.1 | Java | None |
+| ~~Better Minecraft: Offline~~| ~~lester.serveminecraft.net:25589~~ | ~~1.20.1~~ | ~~Java~~ | ~~Better MC [FORGE] - BMC4~~ |
+| Vanilla With A TWIST! (Currently Creative) | lester.serveminecraft.net:25588 | 1.21 | Java | None |
 
 {: .important}
 > Due to a mishandling of world data, the vanilla server has been lost.
