@@ -11,7 +11,7 @@ parent: Minecraft Guide
 | --- | --- | --- | --- | --- | --- |
 | Vanilla Survival | lester.serveminecraft.net:25590 | 1.21 | Java | Simple Voice Chat (Avoid Discord Calls) | 6870235221796779740 |
 | Vanilla With A TWIST! (Currently Creative) | lester.serveminecraft.net:25588 | 1.21 | Java | None |  |
-| SkyFactory 5 | lester.serveminecraft.net:25589 | 1.20.1 | Java | SkyFactory 5 |  |
+| Direwolf20 1.21 | lester.serveminecraft.net:25589 | 1.21 | Java | FTB Presents Direwolf20 1.21 |  |
 
 {: .new}
 > **New Modded Server**\
