@@ -15,8 +15,7 @@ parent: Minecraft Guide
 
 {: .new}
 > **New Modded Server**\
-> With the recent release of SkyFactory 5, a new server is available!\
-> Please note though, that the Modpack is still under development, and updates may be required frequently.
+> We are going back to Direwolf20 for some more fun!
 
 {: .warning-title}
 > Rules
