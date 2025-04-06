@@ -7,6 +7,11 @@ parent: Minecraft Guide
 
 ## Servers
 
+{: .important-title}
+> Whitelist
+>
+> Each server has a controlled private whitelist, just because you are in one server does not mean you are in all of them.
+
 | Server Name | IP Address | Version | Platform | Requirements | Seed |
 | --- | --- | --- | --- | --- | --- |
 | Vanilla Survival | lester.serveminecraft.net | 1.21 | Java | Simple Voice Chat (Avoid Discord Calls) | 6870235221796779740 |
@@ -14,9 +19,10 @@ parent: Minecraft Guide
 | ~~Direwolf20 1.21~~ | ~~lester.serveminecraft.net:25567~~ | ~~1.21~~ | ~~Java~~ | ~~FTB Presents Direwolf20 1.21~~ |  |
 | Cadets | lester.serveminecraft.net:25568 | 1.21 | Java | Simple Voice Chat (Avoid Discord Calls) |  |
 
-{: .new}
-> **New Modded Server**\
-> We are going back to Direwolf20 for some more fun!
+{: .new-title}
+> New Cadet Server
+>
+> A private server for some of the Cadets to play on
 
 {: .warning-title}
 > Rules
