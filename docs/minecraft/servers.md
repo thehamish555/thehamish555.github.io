@@ -31,3 +31,4 @@ parent: Minecraft Guide
 > 2. Don't Steal
 > 3. Don't Grief
 > 4. Don't Ruin Other Players Experience (E.g. Killing them or starting unwanted fights with them)
+> 5. Have fun!
