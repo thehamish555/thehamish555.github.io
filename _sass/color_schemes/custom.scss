@@ -1,0 +1,33 @@
+@import "./color_schemes/dark";
+
+$body-background-color: #282c34;
+$body-heading-color: #e7e7e7;
+$body-text-color: #e7e7e7;
+$link-color: #98c379;
+$nav-child-link-color: #cccccc;
+$sidebar-color: #21252b;
+$base-button-color: #302d36;
+$btn-primary-color: #264caf;
+$code-background-color: #31343f;
+$code-linenumber-color: #dee2f7;
+$feedback-color: #2c313a;
+$table-background-color: #282b31;
+$search-background-color: #21252b;
+$search-result-preview-color: #abb2bf;
+$border-color: #3b4048;
+
+@import "./vendor/OneDarkJekyll/syntax";
+
+$content-width: 100rem;
+
+@font-face {
+  font-family: 'Futura';
+  src: url('/assets/fonts/futura medium bt.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+}
+
+div {
+  font-family: 'Futura', sans-serif;
+}

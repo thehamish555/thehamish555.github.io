@@ -1,0 +1,45 @@
+title: Hamish555
+description: Documentation for Hamish555's Code
+theme: just-the-docs
+
+url: https://github.com/thehamish555/thehamish555.github.io
+
+aux_links_new_tab: true
+# aux_links:
+#   Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+
+color_scheme: custom
+
+search_enabled: true
+search:
+  rel_url: false
+  button: true
+
+mermaid:
+  version: "11.2.0"
+
+nav_enabled: true
+heading_anchors: true
+
+callouts_level: loud # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
